@@ -41,10 +41,6 @@ export default defineManifest({
     },
   ],
   permissions: [
-    'sidePanel',
-    'storage',
-    'activeTab',
-    'scripting',
     'webRequest',
     'declarativeNetRequest',
     'declarativeNetRequestWithHostAccess',
